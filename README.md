@@ -4,7 +4,7 @@
 
 Este proyecto proporciona una plantilla para la implementación de los ejemplos del modelo Cliente/Servidor, según se explican en el vídeo [Programando Cliente/Servidor con Python](https://www.youtube.com/watch?v=kPXa73a0kCA)
 
-## Estructura del Proyecto
+## Estructura del Proyecto pprueba
 
 ```
 as-taller1/
